@@ -1,0 +1,5 @@
+--worked example
+-- sumEvenNumbersBetween :: Int -> Int -> Int
+-- sumEvenNumbersBetween x y
+--     | x > y = 0
+--     otherwise = x + sumNumbersBetween (x + 1) y
